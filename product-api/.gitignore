@@ -1,0 +1,11 @@
+# Node modules
+node_modules/
+
+# Archivos de entorno (no subir .env)
+.env
+
+# Archivos de log
+*.log
+
+# Compilados y otros archivos temporales
+dist/
